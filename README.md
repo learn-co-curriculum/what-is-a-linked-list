@@ -1,4 +1,4 @@
-# Day 1: Implement a Linked List
+# Day 1-2: Implement a Linked List
 
 **Fork and then clone me!**
 
