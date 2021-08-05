@@ -4,7 +4,7 @@
 
 Today we'll be implementing a Linked List, more specifically a singly-linked list, or simple linked list (it goes by several names). A Linked List consists of Nodes, which are connected to one another. It is similar to an Array in that it consists of elements, or Nodes, which are in a specific order.
 
-![Linked List](./linked_list.png)
+![Linked List](https://curriculum-content.s3.amazonaws.com/data-structures-and-algorithms/what-is-a-linked-list/linked_list.png))
 
 We may choose to use Linked Lists in place of other data structures when we need fast insertion and deletion of data. The Node at the beginning of the list is called the `head`, while the Node at the end is called the `tail`.
 
@@ -211,7 +211,7 @@ list.print()
 
 ### 10. Add `removeFirst` method to `LinkedList`
 
-`removeFirst` removes the first (head) Node in the list and returns the node that was removed. 
+`removeFirst` removes the first (head) Node in the list and returns the node that was removed.
 
 Hint: Try not to overthink this. Removing the head takes one line of code. You'll need a little bit more code to handle returning the node that was removed, however.
 
@@ -226,7 +226,7 @@ list.print()
 
 ### 11. Add `removeLast` method to `LinkedList`
 
-`removeLast` removes the last (tail) Node in the list and returns the removed Node. 
+`removeLast` removes the last (tail) Node in the list and returns the removed Node.
 
 Hint: The `iterate` method might be helpful here.
 
