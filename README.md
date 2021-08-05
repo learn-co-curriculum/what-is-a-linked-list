@@ -4,7 +4,7 @@
 
 Today we'll be implementing a Linked List, more specifically a singly-linked list, or simple linked list (it goes by several names). A Linked List consists of Nodes, which are connected to one another. It is similar to an Array in that it consists of elements, or Nodes, which are in a specific order.
 
-![Linked List](https://curriculum-content.s3.amazonaws.com/data-structures-and-algorithms/what-is-a-linked-list/linked_list.png))
+![Linked List](https://curriculum-content.s3.amazonaws.com/data-structures-and-algorithms/what-is-a-linked-list/linked_list.png)
 
 We may choose to use Linked Lists in place of other data structures when we need fast insertion and deletion of data. The Node at the beginning of the list is called the `head`, while the Node at the end is called the `tail`.
 
