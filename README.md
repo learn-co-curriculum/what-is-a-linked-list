@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Define the characteristics of a set
-- Implement a common methods of a set class
+- Define the characteristics of a linked list
+- Implement a common methods of a linked list class
 
 ## Introduction
 
